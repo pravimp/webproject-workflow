@@ -1,0 +1,15 @@
+{
+  "name": "web-project-workflow",
+  "version": "0.0.1",
+  "description": "Aproject to showcase web project workflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Praveen Padmanabhan",
+  "license": "ISC"
+}
