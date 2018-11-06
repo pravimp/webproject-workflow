@@ -1,9 +1,9 @@
 var $, fill;
 
-$ = required('jquery');
+$ = require('jquery');
 
 (fill = function(item) {
   return $('.tagline').append(`${item}`);
-})('Creative minds in Art');
+})('All creative minds in Art');
 
 fill;
