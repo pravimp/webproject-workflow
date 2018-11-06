@@ -19,8 +19,16 @@
     "gulp-compass": "^2.1.0",
     "gulp-concat": "^2.6.1",
     "gulp-connect": "^5.6.1",
+    "gulp-if": "^2.0.2",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-jsonminify": "^1.1.0",
+    "gulp-minify-html": "^1.0.6",
+    "gulp-uglify": "^3.0.1",
     "gulp-util": "^3.0.8",
     "jquery": "^3.3.1",
     "mustache": "^3.0.0"
+  },
+  "dependencies": {
+    "imagemin-pngcrush": "^5.1.0"
   }
 }
